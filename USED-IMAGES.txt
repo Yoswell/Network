@@ -1,0 +1,7 @@
+Imagenes usadas: 
+7200: https://archive.org/download/c2691-adventerprisek9-mz.124-15.T14/c7200-adventerprisek9-mz.152-4.M7.bin -> Imagen usada
+    https://archive.org/download/c2691-adventerprisek9-mz.124-15.T14/c7200-a3jk9s-mz.124-25g.bin
+    https://archive.org/download/c2691-adventerprisek9-mz.124-15.T14/c7200-adventerprisek9-mz.124-24.T5.bin
+    
+3725: https://archive.org/download/c2691-adventerprisek9-mz.124-15.T14/c3745-adventerprisek9-mz.124-25d.bin -> Imagen usada
+    https://archive.org/download/c2691-adventerprisek9-mz.124-15.T14/c3745-adventerprisek9-mz.124-15.T14.bin
